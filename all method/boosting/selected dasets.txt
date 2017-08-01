@@ -1,0 +1,41 @@
+*215  theroid 3.8              Benchmarks datasets           6
+*266  breast_cancer 3.6         Benchmarks datasets
+*7400 ringnorm 3.15              Benchmarks datasets
+*768  pima indias 3.15          UCI ML datasets                 3
+*198  wbc 2.9                UCI ML datasets      
+*302  weaning 2.86            real data kuncheva                4
+*768  diabetis 2.47           Benchmarks datasets
+*2991 splice 2.15             Benchmarks datasets
+*353  laryngeal3 2.09         real data kuncheva
+*345  liver 1.13              UCI ML datasets
+*692  llaryngeal2 1.59         real data kuncheva
+*98   contractions 1.3         real data kuncheva
+*200  hearth 1.07                Benchmarks datasets
+
+7400 twonorm 1.5               Benchmarks datasets
+5000 waveform 1.13             Benchmarks datasets
+% waeform21 0.96              UCI ML datasets
+% glass 0.95              UCI ML datasets
+% hearath swit 0.77           UCI ML datasets
+% laryngeal1 0.72           real data kuncheva
+% flare_solar 0.1
+% titanic 0.0;
+% wine 1;
+% 'heart_hungarian' 1;
+% german 0.5
+% 'balance_scale' -10
+% hearth clevant 0.3
+% image 0.5
+% ionspare -1
+% iris 0.3
+% pageblock -2
+% soy large 0
+% sowy small 0
+% vehicle -1
+% voice3 0
+% waveformnoise 0 
+
+
+
+                    
+
